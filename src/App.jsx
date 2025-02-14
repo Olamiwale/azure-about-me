@@ -24,9 +24,10 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
+        <p>This is my first statice website on azure. Very amazing</p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        Click on the Vite and React logos to learn more.
       </p>
     </>
   )
